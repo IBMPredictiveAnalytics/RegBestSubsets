@@ -1,0 +1,14 @@
+Name: RegBestSubsets
+Dialog-Specs: RegBestSubsets.spd
+Summary: Best subsets regression
+Description: Dialog to get the best subsets for model building in a re
+ gression analysis, given a defined set of independent variables. The 
+ following statistics is computed: Mallows' Cp, R-Square, Adj. R-SQUAR
+ E, Std. Error of the Estimate, AIC and SBC. 
+Author: Dr. Hans Grüner, Freie Universität Berlin (http://gruener.user
+ page.fu-berlin.de)
+Version: 3.0.0
+Product-Version: 18
+Date: 17.03.2012
+Categories: best_subsets, dialog, extension_command, regression, spss,
+  spssstatisticsextension, statistics
