@@ -1,4 +1,5 @@
 Name: RegBestSubsets
+Display-Name: Best Subsets Regression
 Dialog-Specs: RegBestSubsets.spd
 Summary: Best subsets regression
 Description: Dialog to get the best subsets for model building in a re
